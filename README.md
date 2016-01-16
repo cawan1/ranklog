@@ -1,0 +1,2 @@
+# ranklog
+ranking nagios log
